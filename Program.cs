@@ -61,10 +61,7 @@ namespace CalculatorProgram
             }while (Console.ReadLine().ToUpper() == "Y");
 
             Console.WriteLine("Thank you for using the program");         
-            
 
-
-           
             Console.ReadKey();
         }
     }
